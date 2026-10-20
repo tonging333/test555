@@ -1,0 +1,5 @@
+{
+  "name": "Remix: DNP Budget Plan V.2",
+  "description": "A comprehensive budget planning and management system for DNP, featuring data entry, database viewing, comparison analysis, and Google Sheets integration.",
+  "requestFramePermissions": []
+}
